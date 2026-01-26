@@ -1,5 +1,5 @@
 # 💫 Обо мне:
-👋 Привет, меня зовут **Диана Смирнова (Саркисова)**!  
+👋 Привет, меня зовут **Диана Смирнова**!  
 Добро пожаловать на мой GitHub! 🚀  
 Я — увлеченный разработчик, который создает эффективные, масштабируемые и удобные приложения.  
 Здесь вы найдете мои проекты, вклад в open-source и эксперименты с различными технологиями. 
@@ -7,9 +7,7 @@
 ---
 
 ### 🛠️ **Технологии и инструменты:**
-- **Технологии**: Vue.js, JavaScript, TypeScript, HTML, CSS/SCSS  
-- **Инструменты**: Git, Vite  
-- **Прочее**: REST API, Agile-методологии  
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,vitest,pinia,html,css,sass,webpack,vite,bash,bootstrap,tailwind,git)](https://skillicons.dev)
 
 ---
 
@@ -18,13 +16,6 @@
 - Микросервисная архитектура 🧩  
 
 ---
-
-### 🐾 **Текущий Pet-проект: Futurama Match**
-В свободное от работы время я занимаюсь pet-проектом **Futurama Match** — это приложение для знакомств, где персонажи популярного мультфильма *Futurama* могут понравиться друг другу и продолжить общение в чате. 🚀❤️  
-- **Идея**: Создать веселый и интерактивный способ для фанатов Futurama взаимодействовать с любимыми персонажами.  
-- **Технологии**: Vue.js, TypeScript, Java Script, Vuex.  
-
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/disarkisova) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:diana.sarkisova1999@gmail.com) 
 
