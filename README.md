@@ -7,7 +7,7 @@
 ---
 
 ### 🛠️ **Технологии и инструменты:**
-[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,vitest,pinia,html,css,sass,webpack,vite,bash,bootstrap,tailwind,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,vue,nuxt,vite,vitest,pinia,html,css,sass,webpack,vite,bash,bootstrap,vuetify,tailwind,git,confluence)](https://skillicons.dev)
 
 ---
 
