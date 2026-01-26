@@ -20,8 +20,6 @@
 ## Статистика активности
 [![My stats](https://www.codewars.com/users/diSarkisova/badges/large)](https://www.codewars.com/users/diSarkisova)
 
-![Diana's GitHub stats](https://github-readme-stats.vercel.app/api?username=diSarkisova&show_icons=true&theme=dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diSarkisova&layout=pie&theme=dark)
 
 ---
